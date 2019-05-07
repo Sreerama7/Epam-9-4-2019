@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class ShortestSearch {
+public class ShortestReach {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int test = input.nextInt();
